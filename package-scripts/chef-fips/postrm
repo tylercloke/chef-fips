@@ -1,0 +1,9 @@
+#!/bin/sh
+#
+# Perform necessary chef-fips removal steps
+# after package is uninstalled.
+#
+
+echo "chef-fips has been uninstalled!"
+
+exit 0
